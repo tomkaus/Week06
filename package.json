@@ -1,0 +1,15 @@
+{
+  "name": "warversion3",
+  "version": "1.0.0",
+  "description": "card game war",
+  "main": "WarAttempt.js",
+  "scripts": {
+    "test": "testWar"
+  },
+  "author": "tom kaus",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
